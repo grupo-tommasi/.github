@@ -22,38 +22,6 @@ Nossos repositórios abrangem diferentes frentes tecnológicas, incluindo:
 - Pesquisa científica e protótipos experimentais
 - APIs, microsserviços e infraestrutura cloud
 
-## Estrutura dos projetos
-
-Os projetos podem incluir:
-
-- Aplicações web e mobile
-- Serviços backend
-- Pipelines de dados
-- Modelos de IA
-- Bibliotecas internas reutilizáveis
-- Provas de conceito (PoCs) e iniciativas de inovação
-
-## Contribuição
-
-Este espaço é mantido pelas equipes de **Tecnologia, Dados, Inovação e P&D** do Grupo Tommasi.
-
-Contribuições seguem os padrões internos de:
-
-- versionamento Git
-- revisão por pull request
-- documentação técnica
-- boas práticas de segurança e conformidade
-
-## Saiba mais
-
-- **Website:** https://tommasi.com.br/grupo-tommasi/
-- **Serviços:** Diagnóstico, Saúde, Ambiental e Soluções Técnicas
-- **Repositórios:** Explore nossos projetos públicos abaixo
-
 ## Contato
 
 Para mais informações institucionais ou parcerias tecnológicas, visite nosso site ou utilize os canais de contato oficiais do Grupo.
-
----
-
-*Tecnologia, ciência e inovação a serviço do cuidado com a vida.*
