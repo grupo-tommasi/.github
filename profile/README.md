@@ -24,3 +24,7 @@ Nossos repositórios abrangem diferentes frentes tecnológicas, incluindo:
 
 ## Contato
 Para mais informações institucionais ou parcerias tecnológicas, visite nosso site ou utilize os canais de contato oficiais do Grupo.
+
+---
+
+*Tecnologia, ciência e inovação a serviço do cuidado com a vida.*
