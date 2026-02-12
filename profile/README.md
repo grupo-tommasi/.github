@@ -10,7 +10,7 @@ Esta organização reúne nossos projetos de **Tecnologia, Dados, Inovação e P
 
 Aqui concentramos iniciativas internas e colaborativas voltadas para a transformação digital do Grupo.
 
-## O que você encontrará aqui
+## Projetos de Pesquisa e Desenvolvimento (P&D)
 
 Nossos repositórios abrangem diferentes frentes tecnológicas, incluindo:
 
@@ -23,5 +23,4 @@ Nossos repositórios abrangem diferentes frentes tecnológicas, incluindo:
 - APIs, microsserviços e infraestrutura cloud
 
 ## Contato
-
 Para mais informações institucionais ou parcerias tecnológicas, visite nosso site ou utilize os canais de contato oficiais do Grupo.
